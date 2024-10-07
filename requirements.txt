@@ -1,0 +1,5 @@
+streamlit
+streamlit_chat
+unstructured
+pinecone-client
+"pinecone-client[grpc]"
